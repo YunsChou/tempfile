@@ -1,2 +1,3 @@
 # tempfile
 
+test msg
