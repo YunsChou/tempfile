@@ -1,3 +1,3 @@
 # tempfile
 
-test message a
+test message abc
